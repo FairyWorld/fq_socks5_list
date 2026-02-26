@@ -7,6 +7,14 @@ Proxies for Telegram:
 https://mtpro.xyz/mtproto  
 https://mtpro.xyz/socks5  
 
-Прокси для Telegram (прокси для телеграм/тг):  
+Bot: https://t.me/mtpro_xyz_bot  
+Channel: https://t.me/mtpro_xyz
+
+---
+
+Прокси для Telegram (прокси для телеграмм/телеграм/тг):  
 https://mtpro.xyz/mtproto-ru  
-https://mtpro.xyz/socks5-ru
+https://mtpro.xyz/socks5-ru  
+
+Бот: https://t.me/mtpro_xyz_bot  
+Канал: https://t.me/mtpro_xyz
